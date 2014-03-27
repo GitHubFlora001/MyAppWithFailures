@@ -10,12 +10,8 @@ namespace MvcApplication1.Controllers
     {
         public ActionResult Index()
         {
-<<<<<<< HEAD
-            ViewBag.Message = "My awesome ASP.NET MVC application with changes 032701.";
-=======
-            ViewBag.Message = "My awesome ASP.NET MVC application with changes 0324.";
->>>>>>> 21ca543b97803c641a24a0bec1d1c8738980a61f
 
+            ViewBag.Message = "My awesome ASP.NET MVC application with changes 032702.";
             return View();
         }
 
